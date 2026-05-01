@@ -27,7 +27,7 @@ const LojaDetailsScreen = ({ route }: any) => {
     promocao: 'Aproveite 20% em compras acima de R$ 100',
     endereco: 'Rua Principal, 123 - São Paulo, SP',
     horario: 'Seg-Dom: 08:00 - 22:00',
-    telefone: '(11) 3456-7890',
+    telefone: '+55 85986380362',
     descricao:
       'Maior rede de supermercados da região com produtos de qualidade e preços competitivos.',
     cupons: [
