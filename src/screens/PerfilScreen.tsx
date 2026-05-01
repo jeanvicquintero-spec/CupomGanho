@@ -15,9 +15,9 @@ const PerfilScreen = () => {
   const [notificationsEnabled, setNotificationsEnabled] = useState(true);
   const [emailNotifications, setEmailNotifications] = useState(true);
   const [userData] = useState({
-    name: 'João Silva',
-    email: 'joao@example.com',
-    phone: '(11) 98765-4321',
+    name: 'cupomganho',
+    email: 'cupomganho@gmail.com',
+    phone: '+55 85986380362',
     memberSince: '2024-01-15',
   });
 
